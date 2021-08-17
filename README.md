@@ -1,2 +1,2 @@
 # SQL_World-Oldest-Business
-SQL at entry level
+SQL Project at entry level from Datacamp
